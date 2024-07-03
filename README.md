@@ -39,7 +39,7 @@ Yarn:
 
 ## Documentation
 
-[You can view the documentation here](https://trrxitte.github.io/xtcash-wallet-backend-js/classes/_walletbackend_.walletbackend.html)
+[You can view the documentation here](https://trrxitte.github.io/XTCASH-wallet-backend-js/classes/_walletbackend_.walletbackend.html)
 
 You can see a list of all the other classes on the right side of the screen.
 Note that you will need to prefix them all with `WB.` to access them, if you are not using typescript style imports, assuming you imported with `const WB = require('@trrxitte/traaittcash-wallet-backend')`.
