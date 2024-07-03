@@ -546,9 +546,9 @@ traaittcash-utils@^1.0.6:
   optionalDependencies:
     traaittplatform-crypto "^3.0.5"
 
-"traaittcash-wallet-backend@https://github.com/trrxitte/traaittcash-wallet-backend-js":
+"xtcash-wallet-backend@https://github.com/trrxitte/xtcash-wallet-backend-js":
   version "4.0.5"
-  resolved "https://github.com/trrxitte/traaittcash-wallet-backend-js#8148d58ce054f4d39a5a0043c302b05cd4d6414f"
+  resolved "https://github.com/trrxitte/xtcash-wallet-backend-js#8148d58ce054f4d39a5a0043c302b05cd4d6414f"
   dependencies:
     lodash "^4.17.15"
     object-sizeof "^1.5.1"

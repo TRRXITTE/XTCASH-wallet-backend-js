@@ -1,4 +1,4 @@
-const WB = require('@trrxitte/traaittcash-wallet-backend');
+const WB = require('@trrxitte/xtcash-wallet-backend');
 const readline = require('readline');
 const util = require('util');
 

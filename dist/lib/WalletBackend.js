@@ -103,7 +103,7 @@ class WalletBackend extends events_1.EventEmitter {
      *
      * Example:
      * ```javascript
-     * const WB = require('@trrxitte/traaittcash-wallet-backend');
+     * const WB = require('@trrxitte/xtcash-wallet-backend');
      *
      * const daemon = new WB.Daemon('127.0.0.1', 14486);
      *
@@ -136,7 +136,7 @@ class WalletBackend extends events_1.EventEmitter {
      *
      * Example:
      * ```javascript
-     * const WB = require('@trrxitte/traaittcash-wallet-backend');
+     * const WB = require('@trrxitte/xtcash-wallet-backend');
      *
      * const daemon = new WB.Daemon('127.0.0.1', 14486);
      * const data = 'ENCRYPTED_WALLET_STRING';
@@ -168,7 +168,7 @@ class WalletBackend extends events_1.EventEmitter {
      *
      * Example:
      * ```javascript
-     * const WB = require('@trrxitte/traaittcash-wallet-backend');
+     * const WB = require('@trrxitte/xtcash-wallet-backend');
      *
      * const daemon = new WB.Daemon('127.0.0.1', 14486);
      *
@@ -202,7 +202,7 @@ class WalletBackend extends events_1.EventEmitter {
      *
      * Example:
      * ```javascript
-     * const WB = require('@trrxitte/traaittcash-wallet-backend');
+     * const WB = require('@trrxitte/xtcash-wallet-backend');
      *
      * const daemon = new WB.Daemon('127.0.0.1', 14486);
      *
@@ -252,7 +252,7 @@ class WalletBackend extends events_1.EventEmitter {
      *
      * Example:
      * ```javascript
-     * const WB = require('@trrxitte/traaittcash-wallet-backend');
+     * const WB = require('@trrxitte/xtcash-wallet-backend');
      *
      * const daemon = new WB.Daemon('127.0.0.1', 14486);
      *
@@ -311,7 +311,7 @@ class WalletBackend extends events_1.EventEmitter {
      *
      * Example:
      * ```javascript
-     * const WB = require('@trrxitte/traaittcash-wallet-backend');
+     * const WB = require('@trrxitte/xtcash-wallet-backend');
      *
      * const daemon = new WB.Daemon('127.0.0.1', 14486);
      *
@@ -363,7 +363,7 @@ class WalletBackend extends events_1.EventEmitter {
      *
      * Example:
      * ```javascript
-     * const WB = require('@trrxitte/traaittcash-wallet-backend');
+     * const WB = require('@trrxitte/xtcash-wallet-backend');
      *
      * const daemon = new WB.Daemon('127.0.0.1', 14486);
      *

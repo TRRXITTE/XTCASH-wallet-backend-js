@@ -48,10 +48,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TRRXITTE/traaittCASH-wallet-backend-js.git"
+    "url": "git+https://github.com/TRRXITTE/xtcash-wallet-backend-js.git"
   },
   "bugs": {
-    "url": "https://github.com/TRRXITTE/traaittCASH-wallet-backend-js/issues"
+    "url": "https://github.com/TRRXITTE/xtcash-wallet-backend-js/issues"
   },
-  "homepage": "https://github.com/TRRXITTE/traaittCASH-wallet-backend-js#readme"
+  "homepage": "https://github.com/TRRXITTE/xtcash-wallet-backend-js#readme"
 }
