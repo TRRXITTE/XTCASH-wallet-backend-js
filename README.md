@@ -1,6 +1,6 @@
 <img src="https://github.com/TRRXITTE/XTCASHEnterprise/blob/main/docs/currency.png">
 #### NPM
-[![NPM](https://nodei.co/npm/@trrxitte/xtcash-wallet-backend.png?compact=true)](https://npmjs.org/package/@trrxitte/xtcash-wallet-backend)
+[![NPM](https://nodei.co/npm/@trrxitte/xtcash-wallet-backend.png?compact=true)](https://npmjs.org/package/xtcash-wallet-backend)
 
 #### Github
 
